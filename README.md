@@ -10,4 +10,22 @@ It's possible to acquire and analyze data from Airbnb, made available by them at
 
 ![airbnb](https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg)
 
-**In this notebook, we'll analyze the data on London, and see what insights we can get from it.**
+In this notebook, we'll analyze the data on London, and see what insights we can get from it.
+
+### Linguagem
+        
+``Python``
+
+### Bibliotecas
+
+``pandas`` - 
+
+``matplotlib.pyplot`` - 
+
+``seaborn`` - 
+
+``warnings`` - 
+
+``pywaffle`` - 
+
+``folium`` - 
