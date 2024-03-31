@@ -1,4 +1,4 @@
-# Airbnb Data Analysis
+## Airbnb
 
 The [Airbnb](https://www.airbnb.com.br/) is already considered to be the biggest hotel company today. Oh, and it doesn't own any hotels!
 
@@ -8,9 +8,11 @@ By the end of 2018, the startup founded 10 years ago had already hosted more tha
 
 It's possible to acquire and analyze data from Airbnb, made available by them at Inside Airbnb. It's a great source of data to be used in Data Science projects.
 
-![airbnb](https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg)
+<center><img alt="Analisando Airbnb" width="15%" src="https://www.area360.com.au/wp-content/uploads/2017/09/airbnb-logo.jpg"></center>
 
-In this notebook, we'll analyze the data on London, and see what insights we can get from it.
+## Objective
+
+In this notebook, we'll analyze the data on [London](http://data.insideairbnb.com/united-kingdom/england/london/2023-12-10/visualisations/listings.csv), collected September 6, 2023, and see what insights we can get from it.
 
 ### Language
         
@@ -18,14 +20,14 @@ In this notebook, we'll analyze the data on London, and see what insights we can
 
 ### Libraries
 
-``pandas`` - 
+``pandas`` - data analysis and manipulation tool
 
-``matplotlib.pyplot`` - 
+``matplotlib`` - library for creating static, animated, and interactive visualizations
 
-``seaborn`` - 
+``seaborn`` - data visualization library based on matplotlib
 
-``warnings`` - 
+``warnings`` - used to remove all the warnings
 
-``pywaffle`` - 
+``pywaffle`` - package for plotting waffle charts
 
-``folium`` - 
+``folium`` - plot map with latitude and longitude marks
